@@ -1,6 +1,6 @@
 // Time complexity: O(n)
 // Space complexity: O(1)
-// hash table
+// brute force
 
 var twoSum = function(nums, target) {
     const map = new Map();
@@ -19,7 +19,7 @@ var twoSum = function(nums, target) {
 
 // Time complexity: O(n^2)
 // Space complexity: O(1)
-// brute force
+// hash table
 
 var twoSum = function(nums, target) {
     let map=new Map();
