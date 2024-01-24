@@ -1,4 +1,4 @@
-# LeetCode_Solution
+# LeetCode Solution
 
 My LeetCode Solutions repository! 🚀
 
